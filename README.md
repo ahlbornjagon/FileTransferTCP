@@ -2,10 +2,6 @@
 
 Name: Jagon Ahlborn 
 
-Class: CSE 3461/5461
-
-Professor: Dr. Champion
-
 *************************************
 
 **About**
